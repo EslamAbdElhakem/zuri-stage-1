@@ -26,8 +26,8 @@ app.get("/api", (req, res) => {
 		current_day,
 		utc_time,
 		track,
-		github_file_url: "https://github.com/Dreadedhippy/hng_task_1/blob/main/server.js",
-		github_repo_url: "https://github.com/Dreadedhippy/hng_task_1",
+		github_file_url: "https://github.com/EslamAbdElhakem/zuri-stage-1/blob/main/server.js",
+		github_repo_url: "https://github.com/EslamAbdElhakem/zuri-stage-1",
 		status_code: 200
 	}
 
